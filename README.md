@@ -33,3 +33,5 @@ Follow these steps to run the project locally:
 - Open http://localhost:5173 with your browser to see the result.
 
 ## 📸 Screenshots
+
+![Weather of Switzerland](public/images/weather-app.png)
