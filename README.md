@@ -6,7 +6,7 @@ A simple yet functional weather app created with React and Material UI that lets
 
 Follow these steps to run the project locally:
 
-### 1️⃣ Clone the Repository
+### - Clone the Repository
 
 ```bash
 git clone https://github.com/HinaMuzaffar/weather-app.git
