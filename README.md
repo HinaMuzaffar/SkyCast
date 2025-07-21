@@ -34,10 +34,8 @@ Follow these steps to run the project locally:
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 <p align="center">
-  <img src="./public/images/weather-app.png" alt="Weather of Switzerland" width="250" style="border: 1px solid #ddd; border-radius: 8px; margin: 4px;"/>
-  <img src="./public/images/weather-app1.png" alt="Weather of Islamabad" width="250" style="border: 1px solid #ddd; border-radius: 8px; margin: 4px;"/>
-  <img src="./public/images/weather-app2.png" alt="Weather of Russia" width="250" style="border: 1px solid #ddd; border-radius: 8px; margin: 4px;"/>
+  <img src="./public/images/weather-app.png" alt="Weather of Switzerland" width="250" style="border: 1px solid #fff; border-radius: 8px; margin: 4px;"/>
+  <img src="./public/images/weather-app1.png" alt="Weather of Islamabad" width="250" style="border: 1px solid #fff; border-radius: 8px; margin: 4px;"/>
+  <img src="./public/images/weather-app2.png" alt="Weather of Russia" width="250" style="border: 1px solid #fff; border-radius: 8px; margin: 4px;"/>
 </p>
