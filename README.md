@@ -12,8 +12,6 @@ Follow these steps to run the project locally:
 
    ```bash
    git clone https://github.com/HinaMuzaffar/Weather-App.git
-   cd weather-app
-
    ```
 
 2. **Install Dependencies:**
