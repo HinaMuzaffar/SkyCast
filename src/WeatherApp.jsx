@@ -18,7 +18,7 @@ export default function WeatherApp() {
   };
   return (
     <div>
-      <h2>Weather App</h2>
+      <h2>SkyCast</h2>
       <SearchBox updateInfo={updateInfo}></SearchBox>
       <InfoBox info={weatherInfo}></InfoBox>
     </div>
